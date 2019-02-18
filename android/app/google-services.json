@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619318492478",
+    "firebase_url": "https://socar-d2e47.firebaseio.com",
+    "project_id": "socar-d2e47",
+    "storage_bucket": "socar-d2e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619318492478:android:53ac483c8e95da71",
+        "android_client_info": {
+          "package_name": "com.socar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619318492478-alocc0vphkenu5nm41n4kdrrd8luijo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15Sk7Ls6l1OKYxYXLcLo_jWwjUDh--p8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
